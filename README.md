@@ -1,5 +1,7 @@
 # X Markdown
 
+[English](./README.en.md)
+
 作者 **PNBlance**。
 
 轻量的 Windows x64 Markdown 查看与编辑器。可以直接阅读文件，也可以在分栏中编辑源码、查看实时预览。正式版 **1.0.0** 的安装包约 **2.44 MB**，使用系统的 Microsoft Edge WebView2 Runtime。
